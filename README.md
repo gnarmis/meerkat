@@ -11,11 +11,13 @@ Also, each part is tagged appropriately (p1, p2, etc).
 - [js-fiddle](http://jsfiddle.net/)
 - [Tilt](http://hacks.mozilla.org/2011/07/tilt-visualize-your-web-page-in-3d/)
 - [HTML5 Boilerplate](http://html5boilerplate.com/)
-- [Heroku](http://heroku.com)
+- [JavaScript Docs](https://developer.mozilla.org/en/JavaScript)
+- [HTML5 Rocks!](http://www.html5rocks.com/en/)
+
 
 - [Git](http://git-scm.com/)
 - [RVM](http://beginrescueend.com/)
 - [Ruby](http://www.ruby-lang.org)
 - [Sinatra](http://www.sinatrarb.com)
-- [JavaScript Docs](https://developer.mozilla.org/en/JavaScript)
-- [HTML5 Rocks!](http://www.html5rocks.com/en/)
+- [Sinatra In the Wild](http://www.sinatrarb.com/wild.html)
+- [Heroku](http://heroku.com)
