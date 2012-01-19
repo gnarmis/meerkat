@@ -1,7 +1,13 @@
-##Meerkat
+#Meerkat
 
-#Part 1
+##Part 2 - basic server stuff
 
-The basic/ folder contains a very basic HTML5 template that
-can be used as a starting point. Notice that favicon.ico
-can be replaced by your own .ico file.
+The public/ folder contains the files that our server
+will server. When sinatra runs our little app, we can
+use a browser to look at the results.
+
+Here's a good resource for information:
+http://www.sinatrarb.com/intro
+
+There's also a free book:
+http://sinatra-book.gittr.com/
