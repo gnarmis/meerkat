@@ -5,10 +5,10 @@ get '/hello' do
   return "Hello, World!"
 end
 
-get '/hello/:name' do
+get '/hello/:name/:age' do
   # matches "GET /hello/foo" and "GET /hello/bar"
   # params[:name] is 'foo' or 'bar'
-  return "Hello #{params[:name]}!"
+  return "Hello #{params[:name]}! You are #{params[:age]}!"
 end
 
 
