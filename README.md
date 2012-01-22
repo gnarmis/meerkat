@@ -21,3 +21,7 @@ Also, each part is tagged appropriately (p1, p2, etc).
 - [Sinatra](http://www.sinatrarb.com)
 - [Sinatra In the Wild](http://www.sinatrarb.com/wild.html)
 - [Heroku](http://heroku.com)
+
+##An Awesome Everyday WebDev Handbook
+
+- [WebDev Handbook](http://www.alvit.de/handbook/)
